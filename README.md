@@ -34,3 +34,7 @@ Appbar
 
 Drawer
 ![snapshot3](https://github.com/ThomasKairu/MovieStreamApp/assets/159183501/f3449153-bdcc-4fd7-85f7-b51442a24b4d)
+
+Footer
+
+![footer](https://github.com/ThomasKairu/MovieStreamApp/assets/159183501/cb7b5ba3-02ea-4c1d-adad-81748727b969)
