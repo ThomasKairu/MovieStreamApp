@@ -1,5 +1,8 @@
 # MovieStreamApp
 
+Link to Live Site: https://moviestreamapp.onrender.com/
+
+
 This template should help get you started developing with Vue 3 in Vite.
 It help those who are looking for a way to make a working movie streaming app, it uses vuetify to 
 make its front end appealing to users. has an appbar, menu drawer, body and footer. its not connected to any database.
